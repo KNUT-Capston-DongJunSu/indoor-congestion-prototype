@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**/__pycache__
 datasets/
 SCUT-HEAD/
@@ -12,3 +13,11 @@ yolov8s.pt
 yolov8m.pt
 yolo11n.pt
 scut_head.pt
+=======
+/**/__pycache__
+datasets/
+
+yolov8s.pt
+yolov8m.pt
+yolo11n.pt
+>>>>>>> 8d37e7ddf65286e5aaac98caeb75e0edc266015c
